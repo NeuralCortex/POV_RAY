@@ -1,6 +1,6 @@
 # POV-RAY Mathematical 3D Art
 
-![image](https://github.com/NeuralCortex/Border_Generator/blob/main/images/border.png)
+![image](https://github.com/NeuralCortex/POV_RAY/blob/main/images/readme.png)
 
 ## Überblick
 
