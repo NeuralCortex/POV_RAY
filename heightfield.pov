@@ -1,8 +1,6 @@
 #include "colors.inc"                                   
 #include "textures.inc"
  
-//E010N50.63E
- 
 camera {
     location <10, 10, -15>
     look_at  <0, 0,  0>  
