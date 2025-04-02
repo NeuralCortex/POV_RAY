@@ -31,5 +31,3 @@ Für alle Dateien wurde der [POV-RAY 3.7.0 für Windows](http://www.povray.org/)
 ## Software used
 
 [POV-RAY 3.7.0 for Windows](http://www.povray.org/) was used for all files.
-
-Test
