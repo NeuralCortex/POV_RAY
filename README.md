@@ -1,5 +1,7 @@
 # POV-Ray Mathematical 3D Art
 
+![POV-Ray Image](https://github.com/NeuralCortex/POV_RAY/blob/main/images/gravity_deformation.png)
+![POV-Ray Image](https://github.com/NeuralCortex/POV_RAY/blob/main/images/sinc_function.png)
 ![POV-Ray Image](https://github.com/NeuralCortex/POV_RAY/blob/main/images/readme.png)
 
 ## Overview
